@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package salesv1;
+package salesv1;//proyecto
 
 import gui.Login;
 
